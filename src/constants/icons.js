@@ -1,4 +1,5 @@
 export const iconTypes = {
     plus: 'plus',
-    cross: 'cross'
+    cross: 'cross',
+    checkmark: 'checkmark'
 }
